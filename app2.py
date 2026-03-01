@@ -81,3 +81,4 @@ def crear_empleado():
 
 if __name__ == '__main__':
     app.run(debug=True)
+    #the comments are from gemini cause i posted the code to fix some errors dont mind them
